@@ -130,7 +130,7 @@ Relationships between patients, doctors, appointments, consultations, and prescr
 ```text
 doctor-management-system/
 │
-├── Doctor management system(1).ipynb
+├── Doctor management system.ipynb
 ├── doctor_management.db
 └── README.md
 ```
